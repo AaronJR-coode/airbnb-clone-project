@@ -40,7 +40,11 @@ property management
 - Develop features for property listing creation, updates, and retrieval
 booking system
 - Create a booking mechanism for users to reserve properties and manage booking details.
-
+# API Security
+security helps to gain entegrity from users and security helps to keep hackers away from your users data and personal data.
+ authentication
+ authorization
+ rate limiting
 
 
 
