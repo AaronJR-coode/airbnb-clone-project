@@ -20,3 +20,10 @@ It is aimed on helping people to easy make a reservation to a hotel for differen
   - for testing the and end product 
   DevOps engineers
   - builds continuous integration and continuous delivery pipelines for faster delivery
+# Technology Stack
+Django
+a web framework for building RESTful APIs
+PostgreSQL
+relational database management system
+GraphQL
+Open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data.
