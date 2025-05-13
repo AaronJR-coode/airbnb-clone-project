@@ -45,7 +45,10 @@ security helps to gain entegrity from users and security helps to keep hackers a
  authentication
  authorization
  rate limiting
-
+# CI/CD Pipeline
+they are used for automated pipelines for testing and deploying code changes.
+docker
+Containerization tool for consistent development and deployment environments
 
 
 
