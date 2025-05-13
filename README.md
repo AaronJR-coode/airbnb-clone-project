@@ -33,7 +33,13 @@ Properties
 Bookings 
 Reviews 
 Payments.
-
+# Feature Breakdown
+user management
+-  Implement a secure system for user registration, authentication, and profile management.
+property management
+- Develop features for property listing creation, updates, and retrieval
+booking system
+- Create a booking mechanism for users to reserve properties and manage booking details.
 
 
 
